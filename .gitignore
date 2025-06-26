@@ -1,18 +1,21 @@
-# Ignore virtual environment
+# === Virtual Environment ===
 venv_cpu/
 
-# Ignore Python cache files
+# === Model Files ===
+best.pt
+
+# === Python Cache ===
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Ignore Jupyter checkpoints (if any)
+# === Jupyter Notebooks ===
 .ipynb_checkpoints/
 
-# VSCode settings (optional)
+# === Editor Settings ===
 .vscode/
 
-# OS generated files
+# === OS-Specific Files ===
 .DS_Store
 Thumbs.db
