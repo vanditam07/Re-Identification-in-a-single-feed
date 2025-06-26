@@ -12,7 +12,7 @@ A sample video (`output_reid.mp4`) is generated showing bounding boxes, track ID
 ---
 
 ## Best.pt
- * [Best.pt_Drive Link]https://drive.google.com/file/d/1Oe7IBWy51MQZrSSyzrvkkpcFrSIIzA82/view?usp=drive_link
+ * Best.pt_Drive Link: https://drive.google.com/file/d/1Oe7IBWy51MQZrSSyzrvkkpcFrSIIzA82/view?usp=drive_link
 
 ## ⚙️ Setup Instructions
 
