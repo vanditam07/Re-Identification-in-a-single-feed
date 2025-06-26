@@ -1,0 +1,16 @@
+# Ignore Python virtual environment
+venv*/
+__pycache__/
+*.pyc
+
+# Ignore model weights and large videos
+*.pt
+*.mp4
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs, cache, etc.
+*.log
+*.csv
+runs/
