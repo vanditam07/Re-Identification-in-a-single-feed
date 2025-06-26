@@ -1,6 +1,7 @@
 # Re-Identification in a Single Feed
 
 This project performs **Player Re-Identification** in a single video feed using **YOLOv8** for detection and **DeepSORT** for tracking. It processes a video, detects objects (players), assigns unique IDs, overlays tracking boxes, and generates a real-time bar chart of detections.
+⚠️ Note: This runs on CPU only, and hence the performance (FPS ~ 1) is limited. For better results, consider running on a CUDA-capable GPU.
 
 ---
 
@@ -114,11 +115,9 @@ Total Time (s),Average FPS
 ## 📬 Contact
 
 **Vandita M**
-Email: [vanditam07@gmail.com](mailto:vanditam07@gmail.com)
+Email: [vanditam07@gmail.com](mailto:vanditam14@gmail.com)
 GitHub: [@vanditam07](https://github.com/vanditam07)
 
 ---
 
-## 📜 License
 
-This project is for academic and research purposes only. Please refer to the license of YOLOv8 and DeepSORT for their usage terms.
